@@ -1,0 +1,9 @@
+datetime,location,congestion_level
+2025-08-10 08:00,New York,65
+2025-08-10 09:00,New York,78
+2025-08-10 10:00,New York,72
+2025-08-10 11:00,New York,55
+2025-08-10 12:00,New York,48
+2025-08-10 13:00,New York,50
+2025-08-10 14:00,New York,66
+2025-08-10 15:00,New York,73
